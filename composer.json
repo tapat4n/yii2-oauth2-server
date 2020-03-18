@@ -1,5 +1,5 @@
 {
-  "name": "chervand/yii2-oauth2-server",
+  "name": "tapat4n/yii2-oauth2-server",
   "description": "OAuth 2.0 server for Yii 2.0 with MAC tokens support.",
   "license": "MIT",
   "keywords": [
